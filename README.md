@@ -9,14 +9,14 @@
 
 # show-banner
 
-`show-banner`는 입력된 텍스트를 `figlet`을 사용하여 배너 형식으로 출력하는 간단한 명령어입니다.
+show-banner is a simple command that prints input text in banner format using figlet.
 
-### 요구 사항
+# Requirements
 
-- `figlet` 설치가 필요합니다. `figlet`은 텍스트를 멋진 아스키 아트 배너로 변환하는 도구입니다.
+figlet needs to be installed. figlet is a tool that converts text into stylish ASCII art banners.
 
 
-#### Ubuntu/Debian
+## Ubuntu/Debian
 
 ```sh
 sudo apt-get update
