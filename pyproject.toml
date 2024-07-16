@@ -1,6 +1,6 @@
 [project]
 name = "banner_baechu805"
-version = "0.2.2"
+version = "0.3.0"
 description = "Banner Output Program"
 authors = [
     {name = "baechu805", email = "bjoo606@naver.com"},
@@ -15,6 +15,7 @@ license = {text = "MIT"}
 [project.scripts]
 show-banner = 'banner_baechu805.banner:show'
 baechu805-banner = 'banner_baechu805.banner:pic'
+
 
 [tool.pdm]
 distribution = true
