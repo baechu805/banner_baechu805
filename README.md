@@ -14,6 +14,7 @@
 
 show-banner is a simple command that prints input text in banner format using figlet.
 
+
 # Usage
 ```py
 
@@ -60,3 +61,4 @@ root access to install the font - e.g. `sudo pyfiglet -L <font file>`.
 ```sh
 sudo apt-get update
 sudo apt-get install figlet
+```
