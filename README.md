@@ -14,6 +14,20 @@
 
 show-banner is a simple command that prints input text in banner format using figlet.
 
+
+# Usage
+```py
+
+show-banner
+
+```
+# Install
+
+```py
+
+pip install banner_baechu805
+
+```
 # Requirements
 
 figlet needs to be installed. figlet is a tool that converts text into stylish ASCII art banners.
@@ -47,4 +61,4 @@ root access to install the font - e.g. `sudo pyfiglet -L <font file>`.
 ```sh
 sudo apt-get update
 sudo apt-get install figlet
-
+```

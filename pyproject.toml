@@ -13,8 +13,9 @@ readme = "README.md"
 license = {text = "MIT"}
 
 [project.scripts]
-baechu805-banner = 'banner_baechu805.banner:show'
-baechu805-pic = 'banner_baechu805.banner:pic'
+show-banner = 'banner_baechu805.banner:show'
+baechu805-banner = 'banner_baechu805.banner:pic'
+
 
 [tool.pdm]
 distribution = true
