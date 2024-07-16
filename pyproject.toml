@@ -17,3 +17,7 @@ show-banner = 'banner_baechu805.banner:show'
 
 [tool.pdm]
 distribution = true
+
+[project.urls]
+Homepage = "https://github.com/baechu805/banner_baechu805"
+Issues = "https://github.com/baechu805/banner_baechu805/issues"
